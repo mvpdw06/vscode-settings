@@ -17,23 +17,23 @@ VS Code  IDE 上 debug run 前端的 code，同時也是目前寫 GO language �
 
 1. Material Theme
 
-   * 以 Material design 設計主題
+ * 以 Material design 設計主題
    
 2. Material Icon Theme
     
-   * 多種檔案 Icon 顯示
+ * 多種檔案 Icon 顯示
    
 3. Rainbow Brackets
 
-   * 括號彩色顯示
+ * 括號彩色顯示
 
 4. indent-rainbow
 
-   * 空白階層以彩色顯示（嚴重階層空白潔癖推薦...XD）
+ * 空白階層以彩色顯示（嚴重階層空白潔癖推薦...XD）
    
 5. Theme-Seti-Monokai
 
-   * 高對比的 color schema，寫 code 看起來比較舒服
+ * 高對比的 color schema，寫 code 看起來比較舒服
  
 ## 字型
 
