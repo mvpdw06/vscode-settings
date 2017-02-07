@@ -1,0 +1,12 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+    "editor.wordWrap": true,
+    "typescript.check.tscVersion": false,
+    "window.zoomLevel": 0,
+    "search.exclude": {
+        "**/*.min.js": true
+    }
+}
