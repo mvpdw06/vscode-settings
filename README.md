@@ -49,3 +49,5 @@ VS Code 本身也是一個 open Source 的 project，所以幾乎每一個月都
 ↑↑↑↑↑↑↑↑ 請看上方檔案 ↑↑↑↑↑↑↑↑
 
 ## 畫面截圖
+
+ ![image](https://cdn.rawgit.com/mvpdw06/vscode-settings/d9aceb5f/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202017-04-29%20%E4%B8%8B%E5%8D%8811.13.03.png)
