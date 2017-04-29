@@ -4,9 +4,9 @@
     "editor.fontSize": 14,
     "editor.fontLigatures": true,
     "editor.wordWrap": true,
-    "typescript.check.tscVersion": false,
-    "window.zoomLevel": 0,
-    "search.exclude": {
-        "**/*.min.js": true
-    }
+    "editor.formatOnPaste": true,
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.fontFamily": "Fira Code",
+    "terminal.integrated.fontLigatures": true
 }
