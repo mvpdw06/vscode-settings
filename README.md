@@ -10,8 +10,9 @@ VS Code  IDE 上 debug run 前端的 code，同時也是目前寫 GO language �
 
 另外，VS Code 有一點是 sublime 目前沒辦法做到的，就是在 Folder tree 上對於檔案的拖曳，當你要移動檔案的時候，這個功能就非常重要了！（相信有使用過  sublime 的人知道我在說什麼！）
 
-當然，也因為微軟幫你做了很多事情，他的 size 大小一定沒辦法跟 sublime 比，一定會比較肥一點，不過這其實不構成影響，他提供的功能，也許可以讓你的產能更上一層樓呢！
+VS Code 本身也是一個 open Source 的 project，所以幾乎每一個月都會有一次比較大的更新，不管是在 bug fix 或是實作新的功能上更是超英 (Atom) 趕美 (Sublime)，速度真的是非常快，至於到底有多快，就由你自己來體驗囉！
 
+當然，也因為微軟幫你做了很多事情，他的 size 大小與系統 loading 一定沒辦法跟 sublime 比，相較之下一定會比較肥一點，不過這跟其他好處比起來完全不起眼，而且這是一個 open source project，所以許多問題都會由來自各方的好漢志士幫忙修復，VS Code 提供的功能，也許可以讓你的產能更上一層樓！
 
 ## Packages
 
