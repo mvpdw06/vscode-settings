@@ -8,5 +8,7 @@
     "workbench.colorTheme": "Monokai",
     "workbench.iconTheme": "material-icon-theme",
     "terminal.integrated.fontFamily": "Fira Code",
-    "terminal.integrated.fontLigatures": true
+    "terminal.integrated.fontLigatures": true,
+    "window.nativeTabs": true,
+    "files.autoSave": "onFocusChange"
 }
