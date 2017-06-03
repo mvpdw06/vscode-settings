@@ -18,23 +18,35 @@ VS Code 本身也是一個 open Source 的 project，所以幾乎每一個月都
 
 1. Material Theme
 
- * 以 Material design 設計主題
-   
+  > 以 Material design 設計主題，包含語法高亮等等主題
+   
 2. Material Icon Theme
     
- * 多種檔案 Icon 顯示
+  > 多種檔案 Icon 顯示
    
 3. Rainbow Brackets
 
- * 括號彩色顯示
+  > 括號彩色顯示
 
 4. indent-rainbow
 
- * 空白階層以彩色顯示（嚴重階層空白潔癖推薦...XD）
+  > 空白階層以彩色顯示（嚴重階層空白潔癖推薦...XD）
    
 5. Theme-Seti-Monokai
 
- * 高對比的 color schema，寫 code 看起來比較舒服
+  > 高對比的 color schema，寫 code 看起來比較舒服（JSX 語法推薦）
+
+6. Code Spellchecker
+
+  > 通常我們的變數或方法命名都是有英文意義的，這個套件可以幫我們檢查基本 typo
+  
+7. ESlint
+
+  > project 中使用 eslint 檢查 coding style，此套件可以幫你即時列出有問題的部分
+
+8. Path Intellisense
+
+  > 當你需要 import 其他檔案的時候，提示你當前資料夾有的檔案
  
 ## 字型
 
